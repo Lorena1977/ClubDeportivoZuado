@@ -11,4 +11,9 @@
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="9.*" />
   </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClubDeportivoZuado.Shared\ClubDeportivoZuado.Shared.csproj" />
+  </ItemGroup>
 </Project>
